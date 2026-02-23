@@ -12,6 +12,10 @@
             transition: background-color 0.3s;
         }
 
+        a {
+        color: #bdc3c7;    
+        }
+
         .container {
             text-align: center;
             padding: 40px;
